@@ -5,7 +5,7 @@
 - 🌱 Pretendo  me especializar em Front-End
 - 😄 Pronomes: Ele/dele
 
-<table>
+
 <tr>
 <td> <a href="https://github.com/llnascimento">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=llnascimento&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
