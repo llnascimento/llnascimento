@@ -5,14 +5,12 @@
 - 🌱 Pretendo  me especializar em Front-End
 - 😄 Pronomes: Ele/dele
 
-
-<tr>
-<td> <a href="https://github.com/llnascimento">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=llnascimento&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+<div>
+<a href="https://github.com/llnascimento">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=llnascimento&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="100em" width="500em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=llnascimento&layout=compact&langs_count=7&theme=dark"/>
-  </td>
-</tr>
-</table>
+  </div>
+
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Lucas-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
