@@ -1,10 +1,6 @@
 ###  Salve pessoall!! Me chamo Lucas Nascimento
 
 
-- 🔭  Atualmente sou estudante da ETEC - Professor Horácio
-- 🌱 Pretendo  me especializar em Front-End
-- 😄 Pronomes: Ele/dele
-
 <div>
 <a href="https://github.com/llnascimento">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=llnascimento&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
